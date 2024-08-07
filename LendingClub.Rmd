@@ -1,6 +1,6 @@
 ---
-title: "Week 15_FinalCaseAnalysis"
-author: "Arun V Mahadev"
+title: "Lending Club Loan Analysis"
+author: "Sahana Ramakrishnan"
 date: "2024-07-07"
 output: word_document
 ---
