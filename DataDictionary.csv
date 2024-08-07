@@ -1,0 +1,95 @@
+Column Name,Description
+acc_open_past_24mths,Number of trades opened in past 24 months.
+addr_state,The state provided by the borrower in the loan application
+annual_inc,The self-reported annual income provided by the borrower during registration.
+application_type,Indicates whether the loan is an individual application or a joint application with two co-borrowers
+delinq_2yrs,The number of 30+ days past-due incidences of delinquency in the borrower's credit file for the past 2 years
+dti,"A ratio calculated using the borrower’s total monthly debt payments on the total debt obligations, excluding mortgage and the requested LC loan, divided by the borrower’s self-reported monthly income."
+emp_length,Employment length in years. Possible values are between 0 and 10 where 0 means less than one year and 10 means ten or more years. 
+emp_title,The job title supplied by the Borrower when applying for the loan.*
+grade,LC assigned loan grade
+home_ownership,"The home ownership status provided by the borrower during registration or obtained from the credit report. Our values are: RENT, OWN, MORTGAGE, OTHER"
+inq_last_6mths,The number of inquiries in past 6 months (excluding auto and mortgage inquiries)
+int_rate,Interest Rate on the loan
+issue_d,The month which the loan was funded
+last_credit_pull_d,The most recent month LC pulled credit for this loan
+last_pymnt_amnt,Last total payment amount received
+last_pymnt_d,Last month payment was received
+loan_amnt,"The listed amount of the loan applied for by the borrower. If at some point in time, the credit department reduces the loan amount, then it will be reflected in this value."
+loan_status,Current status of the loan
+mths_since_last_delinq,The number of months since the borrower's last delinquency.
+open_acc,The number of open credit lines in the borrower's credit file.
+pub_rec_bankruptcies,Number of public record bankruptcies
+purpose,A category provided by the borrower for the loan request. 
+sub_grade,LC assigned loan subgrade
+term,The number of payments on the loan. Values are in months and can be either 36 or 60.
+title,The loan title provided by the borrower
+tot_cur_bal,Total current balance of all accounts
+total_pymnt,Payments received to date for total amount funded
+total_rec_int,Interest received to date
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
