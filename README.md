@@ -1,4 +1,5 @@
-Lending Club: LoanAnalysis
+Lending Club - Loan Analysis
+
 Overview:
 This repository contains a case analysis for Lending Club's personal loan data using R programming. The project involves merging and cleaning data, performing various data analyses, and
 creating visualizations to understand different aspects of Lending Club's lending practices from 2012 to 2017.
@@ -31,9 +32,9 @@ Analysis Sections
 
 How to Run
 1. Clone the repository:
-git clone https://github.com/sahanaram29/LendingClub_LoanAnalysis.git
-cd LendingClub_LoanAnalysis
+"git clone https://github.com/sahanaram29/LendingClub_LoanAnalysis.git"
+"cd LendingClub_LoanAnalysis"
 2. Open LendingClub.Rmd in RStudio
 3. Install required packages (if not already installed):
-   install.packages(c("dplyr", "ggplot2", "tidyr", "maps", "ggthemes"))
+   "install.packages(c("dplyr", "ggplot2", "tidyr", "maps", "ggthemes"))"
 4. Knit the R Markdown file if you would like to generate the analysis report in pdf/doc/html format: Click on the "Knit" button in RStudio
